@@ -1,1 +1,5 @@
 yolov7/
+yolov7/
+__pycache__/
+.DS_Store
+.venv/
